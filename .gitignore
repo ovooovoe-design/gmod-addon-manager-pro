@@ -1,0 +1,6 @@
+*.zip
+*.7z
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
